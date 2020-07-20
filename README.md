@@ -1,4 +1,4 @@
-### 👋 I am Hyung-gun Chi [[Homepage](https://hyung-gun.me/)]
+### :wave: Hi, I am Hyung-gun Chi [[Homepage](https://hyung-gun.me/)]
 
 I am a **PhD** student in the Electrical and Computer Engineering at **Purdue University** advised by Professor Karthik Ramani. My research interests lie at the intersection of **Computer Vision** and Robotics, focusing on 3D Geometric Deep Learning for recognizing and synthesizing 3D objects. In this area, I applied Machine Learning (Deep Learning) algorithms for **Augmented/Virtual Reality** and Smart Factory.
 
