@@ -6,7 +6,7 @@ I am a **PhD** student in the Electrical and Computer Engineering at **Purdue Un
 ### :page_facing_up: Publications
 - **H. G. Chi**, S. Kim, X. Hu, Q. Huang, and Karthik Ramani. A Large-scale Mechanical Components Benchmark for Deep Neural Networks. In proceedings of the 16th European Conference on Computer Vision, 2020, accpeted. [[CODE](https://github.com/stnoah1/mcb)]
 - S. Kim, **H. G. Chi**, and Karthik Ramani. First-Person View Hand Segmentation of Multi-Modal Hand Activity Video Dataset. In the proceedings of 31st British Machine Vision Conference, 2020, accepted.
-- S. Kim, **H. G. Chi** and Karthik Ramani. Object synthesis by learning part geometry with surface and volumetric representations. In Computer-Aided Design, under review.
+- S. Kim, **H. G. Chi** and Karthik Ramani. Object synthesis by learning part geometry with surface and volumetric representations. In Computer-Aided Design (2020): 102932.
 - S. Kim, N. Winovich, **H. G. Chi**, G. Lin, and K. Ramani. Latent transformations neural network for object view synthesis. In The Visual Computer, pp. 1-15, 2019
 - H. T. Hwang, **H. G. Chi**, N. K. Kang, H. B. Kong and Soo-Hong Lee. An Evaluation Methodology for 3D Deep Neural Network using Visualization in 3D Data Classification. In Journal of Mechanical Science and Technology (JMST), 33(3), pp. 1333-1339, 2019
 
