@@ -1,6 +1,6 @@
 ### :wave: Hi, I am Hyung-gun Chi [[Homepage](https://hyung-gun.me/)]
 
-I am a **PhD** student in the Electrical and Computer Engineering at **Purdue University** advised by Professor Karthik Ramani. My research interests lie at the intersection of **Computer Vision** and Robotics, focusing on 3D Geometric Deep Learning and Temporal Action Analysis. In this area, I apply **Machine /Deep Learning** algorithms for **Augmented/Virtual Reality** and Smart Factory.
+I am a **PhD** student in the Electrical and Computer Engineering at **Purdue University** advised by Professor Karthik Ramani. My research interests lie at the intersection of **Computer Vision** and Robotics, focusing on 3D Geometric Deep Learning and Temporal Action Analysis. In this area, I apply **Machine/Deep Learning** algorithms for **Augmented/Virtual Reality** and Smart Factory.
 
 
 ### :page_facing_up: Publications
