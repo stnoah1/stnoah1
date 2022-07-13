@@ -13,7 +13,7 @@ I am a **PhD** student in Computer Engineering at **Purdue University**, advised
 - H. T. Hwang, **H. Chi**, N. K. Kang, H. B. Kong and Soo-Hong Lee. An Evaluation Methodology for 3D Deep Neural Network using Visualization in 3D Data Classification. *In Journal of Mechanical Science and Technology (JMST), 33(3), pp. 1333-1339*, 2019
 
 
-### :computer: Languages
+### :computer: Skills
 - **Language** : Python, Matlab, C/C++, SQL, JavaScript, HTML, CSS, PHP
 - **Machine/Deep Learning** : PyTorch, TensorFlow, Keras
 - **Web Programming** : MYSQL/mongoDB, Flask/Node.js
