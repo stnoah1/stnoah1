@@ -1,4 +1,4 @@
-### :wave: Hi, I am Hyung-gun Chi (지형근) <[:house:](https://hyung-gun.me/)|[:mortar_board:](https://scholar.google.com/citations?user=3_l59DIAAAAJ&hl=en)|[:page_facing_up:](https://hyung-gun.me/files/CV.pdf)>
+### :wave: Hi, I am Hyung-gun Chi (지형근) <[:house:](http://engineering.purdue.edu/people/hyung.gun.chi.1)|[:mortar_board:](https://scholar.google.com/citations?user=3_l59DIAAAAJ&hl=en)|[:page_facing_up:](http://stnoah1.github.io/files/CV.pdf)>
 
 I am a **PhD** student in Computer Engineering at **Purdue University**, advised by Professor [Karthik Ramani](https://engineering.purdue.edu/cdesign/wp/). My research interests lie in **Computer Vision**, focusing on 3D Geometric Deep Learning and Action Analysis and their applications to **AR/VR**.
 
