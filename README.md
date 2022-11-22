@@ -4,6 +4,9 @@ I am a **PhD** student in Computer Engineering at **Purdue University**, advised
 
 
 ### :page_facing_up: Publications
+- **H. Chi**, K. Lee, N. Agarwal, K. Ramani, and C. Choi. AdamsFormer for Spatial Action Localization in the Future, _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023. Submitted
+- **H. Chi**, S. Chi, Q. Huang, and K. Ramani. Skeleton‐ODE: Learning Representation by Predicting the Future for Online Skeleton‐ based Action Recognition, _Conference on Computer Vision and Pattern Recognition (CVPR),_ 2023. Submitted
+- Y.Xu, A.Bazarjani, **H. Chi**, C. Choi, and Y. Fu. Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction, _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023. Submitted
 - **H. Chi**, S. Chi, S. Chan, and Karthik Ramani. Pose Relation Transformer : Refine Occlusions for Human Pose Estimation. *The IEEE International Conference on Robotics and Automation (ICRA)*, 2023. Submitted. [[CODE](https://github.com/stnoah1/PORT)]
 - **H. Chi**, M. H. Ha, S. Chi, S. Lee, Q. Huang, and Karthik Ramani. InfoGCN : Representation Learning for Human Skeleton-based Action Recognition. *In proceedings of Conference on Computer Vision and Pattern Reocgnition (CVPR)*, 2022. [[CODE](https://github.com/stnoah1/infogcn)]
 - S. Kim, J.Bae, **H. Chi**, S Hong, B.S. Koh, and Karthik Ramani. Egocentric View Hand Action Recognition by Leveraging Hand Surface and Hand Grasp Type. *arXiv preprint arXiv:2109.03783*, 2021.
