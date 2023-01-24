@@ -24,5 +24,5 @@ I am a **PhD** student in Computer Engineering at **Purdue University**, advised
 - **CAD Tool** : Creo Parametric, SolidWorks, AutoCAD
 - **ETC** : GAZEBO, ROS
 
-[![Hyung-gun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stnoah1)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+<!-- [![Hyung-gun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stnoah1)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical) -->
  
